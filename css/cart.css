@@ -146,6 +146,7 @@ ul{
 /*Cart Items*/
 .cart-page{
     margin: 80px auto;
+    transform: translate(0%, -18%);
 }
 table{
     width: 100%;
